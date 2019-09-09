@@ -18,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/xpl/LeetCodes.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="635" column="22" selection-start-line="635" selection-start-column="22" selection-end-line="635" selection-end-column="22" />
+            <state relative-caret-position="480">
+              <caret line="667" column="22" lean-forward="true" selection-start-line="667" selection-start-column="22" selection-end-line="667" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -32,11 +32,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/xpl/LeetCodes.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
@@ -118,15 +119,15 @@
       <workItem from="1567747719760" duration="8632000" />
       <workItem from="1567757837950" duration="30000" />
       <workItem from="1567758627317" duration="2589000" />
-      <workItem from="1567995065268" duration="7020000" />
+      <workItem from="1567995065268" duration="9798000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19792000" />
+    <option name="totallyTimeSpent" value="22570000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20196672" />
@@ -170,10 +171,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/xpl/LeetCodes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="635" column="22" selection-start-line="635" selection-start-column="22" selection-end-line="635" selection-end-column="22" />
+        <state relative-caret-position="480">
+          <caret line="667" column="22" lean-forward="true" selection-start-line="667" selection-start-column="22" selection-end-line="667" selection-end-column="22" />
         </state>
       </provider>
     </entry>
