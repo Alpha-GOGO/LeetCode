@@ -18,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/xpl/LeetCodes.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="595" column="56" selection-start-line="595" selection-start-column="56" selection-end-line="595" selection-end-column="56" />
+            <state relative-caret-position="540">
+              <caret line="635" column="22" selection-start-line="635" selection-start-column="22" selection-end-line="635" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -118,15 +118,15 @@
       <workItem from="1567747719760" duration="8632000" />
       <workItem from="1567757837950" duration="30000" />
       <workItem from="1567758627317" duration="2589000" />
-      <workItem from="1567995065268" duration="840000" />
+      <workItem from="1567995065268" duration="7020000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13612000" />
+    <option name="totallyTimeSpent" value="19792000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20196672" />
@@ -172,8 +172,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/xpl/LeetCodes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="595" column="56" selection-start-line="595" selection-start-column="56" selection-end-line="595" selection-end-column="56" />
+        <state relative-caret-position="540">
+          <caret line="635" column="22" selection-start-line="635" selection-start-column="22" selection-end-line="635" selection-end-column="22" />
         </state>
       </provider>
     </entry>
