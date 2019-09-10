@@ -18,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/xpl/LeetCodes.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="710" column="29" lean-forward="true" selection-start-line="710" selection-start-column="29" selection-end-line="710" selection-end-column="29" />
+            <state relative-caret-position="131">
+              <caret line="822" column="18" selection-start-line="822" selection-start-column="18" selection-end-line="822" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -119,18 +119,19 @@
       <workItem from="1567747719760" duration="8632000" />
       <workItem from="1567757837950" duration="30000" />
       <workItem from="1567758627317" duration="2589000" />
-      <workItem from="1567995065268" duration="12200000" />
+      <workItem from="1567995065268" duration="13832000" />
+      <workItem from="1568078531315" duration="14561000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24972000" />
+    <option name="totallyTimeSpent" value="41165000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20196672" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18910742" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -180,8 +181,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/xpl/LeetCodes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="710" column="29" lean-forward="true" selection-start-line="710" selection-start-column="29" selection-end-line="710" selection-end-column="29" />
+        <state relative-caret-position="131">
+          <caret line="822" column="18" selection-start-line="822" selection-start-column="18" selection-end-line="822" selection-end-column="18" />
         </state>
       </provider>
     </entry>
