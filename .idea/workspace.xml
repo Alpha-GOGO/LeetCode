@@ -47,7 +47,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.LeetCodes">
+    <configuration name="LeetCodes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xpl.LeetCodes" />
+      <module name="LeetCodes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xpl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="xpl.test" />
       <module name="LeetCodes" />
@@ -63,6 +76,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LeetCodes" />
         <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
@@ -91,6 +105,7 @@
       <workItem from="1568632035991" duration="1410000" />
       <workItem from="1568633989715" duration="1636000" />
       <workItem from="1568704755623" duration="9915000" />
+      <workItem from="1568772266887" duration="4595000" />
     </task>
     <servers />
   </component>
