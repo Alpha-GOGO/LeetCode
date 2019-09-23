@@ -29,6 +29,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -112,6 +113,7 @@
       <workItem from="1569066245877" duration="804000" />
       <workItem from="1569069072858" duration="600000" />
       <workItem from="1569135831835" duration="14831000" />
+      <workItem from="1569205968414" duration="2099000" />
     </task>
     <servers />
   </component>
