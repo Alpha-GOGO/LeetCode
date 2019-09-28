@@ -119,7 +119,8 @@
       <workItem from="1569407775066" duration="3966000" />
       <workItem from="1569416540675" duration="7227000" />
       <workItem from="1569458885395" duration="3202000" />
-      <workItem from="1569496580245" duration="2963000" />
+      <workItem from="1569496580245" duration="4851000" />
+      <workItem from="1569650392886" duration="8747000" />
     </task>
     <servers />
   </component>
@@ -138,5 +139,21 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/xpl/LeetCodes.java</url>
+          <line>803</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/xpl/LeetCodes.java</url>
+          <line>806</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
